@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Patent Approval 💡![C](https://img.shields.io/badge/language-C-blue.svg)
-=======
-# work-in-c-03
->>>>>>> 7b4693c (revisar software)
 
 # Patent Approval ![C](https://img.shields.io/badge/language-C-blue.svg)
 
