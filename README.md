@@ -1,4 +1,4 @@
-# Patent Approval 💡
+# Patent Approval 💡![C](https://img.shields.io/badge/language-C-blue.svg)
 
 Este repositório contém o sistema de validação e aprovação de patentes, desenvolvido em **C**. O software automatiza a verificação de critérios técnicos, financeiros e do histórico do inventor para determinar se uma patente é elegível.
 
