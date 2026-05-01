@@ -43,4 +43,9 @@ Standard Libraries
 * <stdio.h>
 * <stdbool.h>
 * <locale.h>
+
+
+## 📝 Licença
+Este projeto está sob a licença MIT.
+Feito com ❤️ por Igor Lucas from Brazil.
 ```
