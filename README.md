@@ -1,40 +1,50 @@
+<<<<<<< HEAD
 # Patent Approval 💡![C](https://img.shields.io/badge/language-C-blue.svg)
+=======
+# work-in-c-03
+>>>>>>> 7b4693c (revisar software)
 
-Este repositório contém o sistema de validação e aprovação de patentes, desenvolvido em **C**. O software automatiza a verificação de critérios técnicos, financeiros e do histórico do inventor para determinar se uma patente é elegível.
+# Patent Approval ![C](https://img.shields.io/badge/language-C-blue.svg)
 
-## 📋 Critérios de Aprovação
+This repository contains the patent validation and approval system, developed in **C**. The software automates the verification of technical, financial, and inventor history criteria to determine if a patent is eligible.
 
-A aprovação é regida por uma hierarquia de regras:
+## 📋 Approval Criteria
 
-### 1. Requisitos Obrigatórios
+Approval is governed by a hierarchy of rules:
 
-Antes de qualquer revisão, a patente deve cumprir os seguintes pontos:
+### 1. Mandatory Requirements
 
-* **Documentação:** O protótipo deve ter documentação completa.
-* **Financeiro:** Todas as taxas de submissão devem estar devidamente pagas.
+For any further review, the patent must meet the following requirements:
 
-### 2. Validação por Área Técnica
+* **Documentation:** The prototype must have complete documentation.
+* **Financial:** All submission fees must be duly paid.
 
-Se os requisitos obrigatórios forem atendidos, a aprovação segue por área:
+### 2. Validation by Technical Area
 
-* **Biotecnologia:** Requer um Certificado Internacional **OU** aprovação de 2 revisores especializados.
-* **Engenharia:** Requer aprovação de 1 revisor especializado **E** um protótipo devidamente validado.
+If the mandatory requirements are met, approval proceeds by area:
 
-### 3. Regra do Inventor Experiente (Fast Track)
+* **Biotechnology:** Requires an International Certificate **OR** approval from 2 specialized reviewers.
+* **Engineering:** Requires approval from 1 specialized reviewer **AND** a duly validated prototype.
 
-Independentemente da área, a patente será aprovada se:
+### 3. Experienced Inventor Rule (Fast Track)
 
-* O inventor possuir **5 ou mais patentes aprovadas anteriormente**.
-* A última patente aprovada for válida por mais de **25 anos**.
+Regardless of the field, the patent will be approved if:
+
+* The inventor has **5 or more previously approved patents**.
+* The last approved patent is valid for more than **25 years**.
 
 ---
 
-## 💻 Implementação (C Language)
+## 💻 Implementation (C Language)
 
-O sistema utiliza as seguintes bibliotecas padrões:
+### Standard Libraries Used
 
-```c
-#include <stdio.h>
-#include <stdbool.h>
-#include <locale.h>
-```
+* `<stdio.h>`
+* `<stdbool.h>`
+* `<locale.h>`
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT.
+
+Feito com ❤️ por **Igor Lucas** from Brazil.
